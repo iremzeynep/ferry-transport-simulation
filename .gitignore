@@ -1,0 +1,23 @@
+# Compiled Java class files
+*.class
+
+# Output and build directories
+build/
+bin/
+out/
+target/
+
+# IDE specific configuration files (NetBeans, IntelliJ, Eclipse, VS Code)
+.netbeans/
+nbproject/private/
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Log and archive files
+*.log
+*.jar
+*.zip
